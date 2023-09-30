@@ -24,6 +24,8 @@ source fastenv/bin/activate
 # uvicorn
 # openai
 pip install -r app/requirements.txt
+# or
+python3 -m pip install -r app/requirements.txt
 ```
 # Step 2: Creating the API
 
