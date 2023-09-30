@@ -2,7 +2,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = ""
+openai.api_key = "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"
 
 def generate_description(input):
     messages = [
